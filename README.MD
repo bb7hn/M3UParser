@@ -8,5 +8,3 @@ example
 `$url="require_once("m3uParser.php");`
 `$url="http://localhost/test.m3u";`
 `$data = parseM3U($url);`
-
-###End
