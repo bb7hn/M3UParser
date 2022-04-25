@@ -1,4 +1,4 @@
-# Editor.md
+# M3UParser.md
 This is basic regex based m3u/m3u8 parser.
 ##Usage
 for usage you can have a look to example.php
